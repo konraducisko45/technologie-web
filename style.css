@@ -27,7 +27,7 @@
     overflow-x:hidden;
   }
 
-  section
+  
 
 
   .footer{
@@ -82,4 +82,12 @@
     .footer .row a i{
     margin:0% 3%;
     }
+    }
+
+    .col1{
+        position: relative;
+        width: 290px;
+        margin-top: -65px;
+        margin-left: 120px;
+        color: #f2f2f2;
     }
